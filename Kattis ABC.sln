@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis ABC", "Kattis ABC\Kattis ABC.csproj", "{03E240D5-D69A-49D3-AD35-0C0E6A38A713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E240D5-D69A-49D3-AD35-0C0E6A38A713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E240D5-D69A-49D3-AD35-0C0E6A38A713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E240D5-D69A-49D3-AD35-0C0E6A38A713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E240D5-D69A-49D3-AD35-0C0E6A38A713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95173C8C-5895-4044-8E5E-7F6B20D8F69B}
+	EndGlobalSection
+EndGlobal
